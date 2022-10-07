@@ -1,4 +1,4 @@
-FROM node:12-bullseye-slim 
+FROM node:18
 
 # Metadata params
 ARG BUILD_DATE
